@@ -1,0 +1,15 @@
+
+2017-07-24 11:38 Monday
+ Checking Directory: assignment_02 File: analyze_medicare_data.py
+Assignment source code file found
+Assignment source code completed a run without a stack trace
+Please check instructor_stdout.txt for stdout (if any)
+Please check instructor_stderr.txt for stderr (if any)
+Successful run of program without stack trace = 5 points
+Documentation ratio of soufce code to comments no more than 5 to 1 = 5 points
+sqlite3 database: medicare_hospital_compare.db correctly created = 5 points
+All csv files in the Medicare hospital compare database have a staging table = 5 points
+All staging tables have all columns in the corresponding csv file = 5 points
+All data from all csv files correctly loaded into staging tables = 10 points
+Hospital Ranking excel file: hospital_ranking.xlsx correctly created = 10 points
+Measures Statistics excel file: measures_statistics.xlsx correctly created = 10 points

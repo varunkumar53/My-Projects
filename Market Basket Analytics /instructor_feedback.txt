@@ -1,0 +1,10 @@
+
+2017-08-07 14:11 Monday
+ Checking Directory: assignment_03 File: market_basket_analytics.py
+Assignment source code file found
+Assignment source code completed a run without a stack trace
+Please check instructor_stdout.txt for stdout (if any)
+Please check instructor_stderr.txt for stderr (if any)
+Verifying that your market_basket_recommendations.txt file exists and matches the solution file
+Total matches: 100 of 100
+Total Points: 100

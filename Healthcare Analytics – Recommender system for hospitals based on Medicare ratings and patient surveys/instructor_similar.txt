@@ -1,0 +1,4 @@
+
+This file will only be written after the final grading run
+It will compare students submissions with other students and also with public sources such as stack overflow, course hero, etc.
+High similaries will be manually inspected by the instructor and violations may result in referrals for academic dishonesty

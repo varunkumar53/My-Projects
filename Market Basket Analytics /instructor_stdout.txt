@@ -1,0 +1,18 @@
+# Include all packages starts #
+# Include all packages ends #
+# Downloading the training dataset starts here #
+# Downloading the training dataset ends here #
+# Downloading the test dataset starts here #
+# Downloading the test dataset ends here #
+# Creating training dataframe starts here  #
+# Creating training dataframe ends here  #
+# Creating support dataframe starts here  #
+# Creating support dataframe ends here  #
+# Creating support dataframe starts here  #
+# Creating support dataframe ends here  #
+# Creating support dataframe starts here  #
+# Creating support dataframe ends here  #
+# Creating Bundling dataframe starts here  #
+# Creating Bundling dataframe ends here  #
+# Creating market_basket_recommendations starts here  #
+# Creating  market_basket_recommendations ends here  #

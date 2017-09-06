@@ -1,0 +1,20 @@
+
+2017-07-03 00:36 Monday
+ Checking Directory: assignment_01 File: create_flight_schedule.py
+Assignment source code file found
+Assignment source code completed a run without a stack trace
+Please check instructor_stdout.txt for stdout (if any)
+Please check instructor_stderr.txt for stderr (if any)
+Attempting to read flight schedule file: flight_schedule.csv
+[['T1', 'HOU', 'AUS', '0600', 360, '0645', 405], ['T1', 'AUS', 'DAL', '0710', 430, '0800', 480], ['T1', 'DAL', 'AUS', '0830', 510, '0920', 560], ['T1', 'AUS', 'HOU', '0945', 585, '1030', 630], ['T1', 'HOU', 'AUS', '1121', 681, '1206', 726], ['T1', 'AUS', 'DAL', '1231', 751, '1321', 801], ['T1', 'DAL', 'HOU', '1351', 831, '1456', 896], ['T1', 'HOU', 'DAL', '1531', 931, '1636', 996], ['T1', 'DAL', 'AUS', '1706', 1026, '1756', 1076], ['T1', 'AUS', 'HOU', '1821', 1101, '1906', 1146], ['T1', 'HOU', 'DAL', '1941', 1181, '2046', 1246], ['T2', 'AUS', 'HOU', '0600', 360, '0645', 405], ['T2', 'HOU', 'AUS', '0720', 440, '0805', 485], ['T2', 'AUS', 'HOU', '0830', 510, '0915', 555], ['T2', 'HOU', 'AUS', '0950', 590, '1035', 635], ['T2', 'AUS', 'HOU', '1100', 660, '1145', 705], ['T2', 'HOU', 'DAL', '1220', 740, '1325', 805], ['T2', 'DAL', 'HOU', '1355', 835, '1500', 900], ['T2', 'HOU', 'DAL', '1535', 935, '1640', 1000], ['T2', 'DAL', 'HOU', '1710', 1030, '1815', 1095], ['T2', 'HOU', 'AUS', '1850', 1130, '1935', 1175], ['T2', 'AUS', 'HOU', '2000', 1200, '2045', 1245], ['T3', 'HOU', 'DAL', '0600', 360, '0705', 425], ['T3', 'DAL', 'HOU', '0735', 455, '0840', 520], ['T3', 'HOU', 'AUS', '0915', 555, '1000', 600], ['T3', 'AUS', 'DAL', '1025', 625, '1115', 675], ['T3', 'DAL', 'AUS', '1145', 705, '1235', 755], ['T3', 'AUS', 'HOU', '1300', 780, '1345', 825], ['T3', 'HOU', 'DAL', '1420', 860, '1525', 925], ['T3', 'DAL', 'AUS', '1555', 955, '1645', 1005], ['T3', 'AUS', 'DAL', '1710', 1030, '1800', 1080], ['T3', 'DAL', 'HOU', '1830', 1110, '1935', 1175], ['T3', 'HOU', 'AUS', '2010', 1210, '2055', 1255], ['T4', 'HOU', 'DAL', '0600', 360, '0705', 425], ['T4', 'DAL', 'HOU', '0735', 455, '0840', 520], ['T4', 'HOU', 'DAL', '0915', 555, '1020', 620], ['T4', 'DAL', 'AUS', '1050', 650, '1140', 700], ['T4', 'AUS', 'HOU', '1205', 725, '1250', 770], ['T4', 'HOU', 'AUS', '1325', 805, '1410', 850], ['T4', 'AUS', 'HOU', '1435', 875, '1520', 920], ['T4', 'HOU', 'DAL', '1602', 962, '1707', 1027], ['T4', 'DAL', 'AUS', '1737', 1057, '1827', 1107], ['T4', 'AUS', 'HOU', '1852', 1132, '1937', 1177], ['T4', 'HOU', 'DAL', '2012', 1212, '2117', 1277], ['T5', 'DAL', 'HOU', '0600', 360, '0705', 425], ['T5', 'HOU', 'DAL', '0740', 460, '0845', 525], ['T5', 'DAL', 'HOU', '0915', 555, '1020', 620], ['T5', 'HOU', 'DAL', '1055', 655, '1200', 720], ['T5', 'DAL', 'AUS', '1230', 750, '1320', 800], ['T5', 'AUS', 'DAL', '1345', 825, '1435', 875], ['T5', 'DAL', 'AUS', '1505', 905, '1555', 955], ['T5', 'AUS', 'HOU', '1620', 980, '1705', 1025], ['T5', 'HOU', 'DAL', '1740', 1060, '1845', 1125], ['T5', 'DAL', 'AUS', '1915', 1155, '2005', 1205], ['T5', 'AUS', 'HOU', '2030', 1230, '2115', 1275], ['T6', 'DAL', 'HOU', '0600', 360, '0705', 425], ['T6', 'HOU', 'DAL', '0740', 460, '0845', 525], ['T6', 'DAL', 'HOU', '0915', 555, '1020', 620], ['T6', 'HOU', 'DAL', '1055', 655, '1200', 720], ['T6', 'DAL', 'HOU', '1230', 750, '1335', 815], ['T6', 'HOU', 'AUS', '1410', 850, '1455', 895], ['T6', 'AUS', 'HOU', '1520', 920, '1605', 965], ['T6', 'HOU', 'AUS', '1640', 1000, '1725', 1045], ['T6', 'AUS', 'HOU', '1750', 1070, '1835', 1115], ['T6', 'HOU', 'DAL', '1910', 1150, '2015', 1215], ['T6', 'DAL', 'AUS', '2045', 1245, '2135', 1295]]
+Successful run of program - 5 points
+Flight schedule file loaded and validated - 5 points
+Noise restrictions validated - 5 points
+Flight times validated - 5 points
+Ground times validated - 5 points
+Maximum aircraft per gates at airport validated - 5 points
+Aircraft are in position for the next day validated - 5 points
+All aircraft flew at least 5 flights - 10 points
+All aircraft flew at least 3 flights per market - 10 points
+Total number of flights was 66
+Students will receive up to 10 points depending on the percentile of their number of flights
